@@ -1,4 +1,4 @@
-# GTM Copilot — AI Go-to-Market Coach for Solo Founders
+# Traction — From Built to Traction in 30 Days
 
 ## 产品定位
 

@@ -8,11 +8,11 @@ const session = await getSession(Astro.request);
 const user = session?.user;
 ---
 
-<Layout title="Generate Your GTM Playbook — GTM Copilot">
+<Layout title="Generate Your Playbook — Traction">
   <!-- Nav -->
   <nav class="fixed top-0 w-full bg-stone-50/80 backdrop-blur-sm border-b border-stone-200 z-50">
     <div class="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
-      <a href="/" class="font-semibold text-stone-900 tracking-tight">GTM Copilot</a>
+      <a href="/" class="font-semibold text-stone-900 tracking-tight">Traction</a>
       <div class="flex items-center gap-4">
         <a href="/" class="text-sm text-stone-500 hover:text-stone-700 transition-colors">Home</a>
         <AuthButton user={user} client:load />

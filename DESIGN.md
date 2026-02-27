@@ -1,4 +1,4 @@
-# GTM Copilot 设计规范
+# Traction 设计规范
 
 ## 定位
 - 目标用户：技术型 solo founder / indie hacker
